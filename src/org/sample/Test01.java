@@ -7,6 +7,8 @@ public class Test01 {
 		System.out.println("Number 1");
 		System.out.println("Number 2");
 		System.out.println("Number 3");
+		System.out.println("Number 10");
+		System.out.println("Number 11");
 
 	}
 
